@@ -2,7 +2,7 @@
 
 ## Basic Git terms, commands 
 
-* Repositories: 
+**Repositories:** 
 - 
 -
 -
@@ -18,12 +18,14 @@ Creation of repo: creates readme file () and initial commit
 
 Working directory -git add-> staging areas -git commit-> history 
 
-.gitignore: makes a file that keeps track of files that you don't want to keep track of. 
+**.gitignore:** makes a file that keeps track of files that you don't want to keep track of. 
 
 
-## working local vs global 
 
 ```{r}
+
+data <- read_csv("data.csv")
+str(data)
 
 ```
 
