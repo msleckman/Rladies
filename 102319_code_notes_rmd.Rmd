@@ -1,0 +1,29 @@
+
+
+## Basic Git terms, commands 
+
+* Repositories: 
+- 
+-
+-
+
+* 
+We will add files to empty repositiory
+Git take care of: 
+- who made the commit
+- When that commit was made 
+
+
+Creation of repo: creates readme file () and initial commit 
+
+Working directory -git add-> staging areas -git commit-> history 
+
+.gitignore: makes a file that keeps track of files that you don't want to keep track of. 
+
+
+## working local vs global 
+
+```{r}
+
+```
+
